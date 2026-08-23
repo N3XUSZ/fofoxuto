@@ -39,7 +39,7 @@
     <td align="center" width="800">
       <h3>💻 Selected Projects</h3>
       <ul align="left">
-        <li><strong><a href="https://github.com/N3XUSZ/cola-prova">Cola-prova</a>:</strong> Um projeto usando cifra de césar com chave 4 para codificar e decodificar frases/palavras.</li>
+        <li><strong><a href="https://github.com/N3XUSZ/ApolloCipher">ApollpCipher</a>:</strong> Um projeto usando cifra de césar com chave 4 para codificar e decodificar frases/palavras.</li>
       </ul>
     </td>
   </tr>
