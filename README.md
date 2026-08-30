@@ -48,8 +48,6 @@
 
 <br>
 
-<br>
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -61,18 +59,17 @@
 </p>
 
 <br>
-<h3 align="center">📬 Connect with Me</h3>
+
+<h3 align="center">🌐 Elsewhere</h3>
 
 <p align="center">
   <a href="https://instagram.com/fofoxuto">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.last.fm/user/Fofochuto">
-    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" />
   </a>
 </p>
-
 <br>
 
 <p align="center">
