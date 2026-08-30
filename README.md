@@ -48,14 +48,20 @@
 
 <br>
 
-<h3 align="center"🔥 streak! </h3>
+<br>
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fofoxuto&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fofoxuto&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fofoxuto&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fofoxuto&theme=github_dark" />
 </p>
 
 <br>
-
 <h3 align="center">📬 Connect with Me</h3>
 
 <p align="center">
