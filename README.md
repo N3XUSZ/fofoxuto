@@ -57,10 +57,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fofoxuto&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=fofoxuto&theme=dark&hide_border=true" />
 </p>
 
