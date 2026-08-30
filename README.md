@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from Brazil 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N3XUSZ&label=Profile%20Views&color=0e75b6&style=flat" alt="N3XUSZ" />
+  <img src="https://komarev.com/ghpvc/?username=fofoxuto&label=Profile%20Views&color=0e75b6&style=flat" alt="fofoxuto" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
     <td align="center" width="800">
       <h3>💻 Selected Projects</h3>
       <ul align="left">
-        <li><strong><a href="https://github.com/N3XUSZ/ApolloCipher">ApollpCipher</a>:</strong> Um projeto usando cifra de césar com chave 4 para codificar e decodificar frases/palavras.</li>
+        <li><strong><a href="https://github.com/fofoxuto/ApolloCipher">ApollpCipher</a>:</strong> Um projeto usando cifra de césar com chave 4 para codificar e decodificar frases/palavras.</li>
       </ul>
     </td>
   </tr>
@@ -52,9 +52,6 @@
 <p align="center">
   <a href="https://instagram.com/fofoxuto" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:fofochuto@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord (@arroz.mingau)" />
