@@ -11,6 +11,22 @@
   </em>
 </p>
 
+<p align="center">
+  <em>
+    "I build things I probably didn't need to build."
+  </em>
+</p>
+
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  🇧🇷 Developer from Brazil<br>
+  💻 Interested in Web Development & Technology<br>
+  🎵 Music enthusiast<br>
+  🧪 I like experimenting with random projects<br>
+  🌱 Always learning something new
+</p>
+
 <br>
 
 <h3 align="center">🛠 Languages and Tools</h3>
@@ -35,6 +51,14 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center"🔥 streamk! </h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fofoxuto&theme=dark&hide_border=true" />
+</p>
 
 <br>
 
