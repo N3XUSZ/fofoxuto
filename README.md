@@ -24,11 +24,10 @@
 
 <br>
 
-<h3 align="center">📊 Github Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=fofoxuto&bg_color=transparent&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-</div>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N3XUSZ&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
 
 <br>
