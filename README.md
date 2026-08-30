@@ -64,11 +64,12 @@
 <h3 align="center">📬 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://instagram.com/fofoxuto" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/fofoxuto">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord (@arroz.mingau)" />
+  </a>
+  <a href="https://www.last.fm/user/Fofochuto">
+    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" />
   </a>
 </p>
 
