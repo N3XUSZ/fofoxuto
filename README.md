@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fofoxuto</h1>
-<h3 align="center">A passionate Developer from Brazil 🇧🇷</h3>
+<h3 align="center">A developer from Brazil who likes building things 🇧🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fofoxuto&label=Profile%20Views&color=0e75b6&style=flat" alt="fofoxuto" />
