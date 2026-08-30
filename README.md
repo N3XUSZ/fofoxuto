@@ -11,12 +11,6 @@
   </em>
 </p>
 
-<p align="center">
-  <em>
-    "I build things I probably didn't need to build."
-  </em>
-</p>
-
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
@@ -46,7 +40,7 @@
     <td align="center" width="800">
       <h3>💻 Selected Projects</h3>
       <ul align="left">
-        <li><strong><a href="https://github.com/fofoxuto/ApolloCipher">ApollpCipher</a>:</strong> Um projeto usando cifra de césar com chave 4 para codificar e decodificar frases/palavras.</li>
+        <li><strong><a href="https://github.com/fofoxuto/ApolloCipher">ApolloCipher</a>:</strong> Um projeto usando cifra de césar com chave 4 para codificar e decodificar frases/palavras.</li>
       </ul>
     </td>
   </tr>
@@ -54,7 +48,7 @@
 
 <br>
 
-<h3 align="center"🔥 streamk! </h3>
+<h3 align="center"🔥 streak! </h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fofoxuto&theme=dark&hide_border=true" />
