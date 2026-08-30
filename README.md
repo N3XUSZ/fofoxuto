@@ -27,8 +27,9 @@
 <h3 align="center">📊 Github Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N3XUSZ&bg_color=transparent&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/api/graph?username=fofoxuto&bg_color=transparent&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
+
 
 <br>
 
